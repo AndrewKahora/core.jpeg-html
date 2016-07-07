@@ -11,10 +11,13 @@
     width: 77px;
     height: 56px;
     margin-left: 56px;
-    margin-top: 34px;
+    margin-top: 14px;
 }
 .navfctns i{
     color: white;
+    display: flex;
+    margin-left: 44px;
+    margin-top: 11px;
 
 }
 .views{
